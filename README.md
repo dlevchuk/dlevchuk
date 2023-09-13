@@ -18,7 +18,6 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
 
 ![](https://count.getloli.com/get/@dlevchuk.github.readme)
 </br>
