@@ -19,7 +19,6 @@
 </p>
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
-
 ### Profile Views
 
 ![](https://count.getloli.com/get/@dlevchuk.github.readme)
