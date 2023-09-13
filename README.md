@@ -10,11 +10,6 @@
 <!--   grid-snake -->
 ![](https://github.com/dlevchuk/dlevchuk/blob/output/github-contribution-grid-snake-dark.svg)
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=dlevchuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlevchuk&theme=onedark" alt="dlevchuk" /></a>
