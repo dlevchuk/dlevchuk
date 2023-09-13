@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**dlevchuk/dlevchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/dlevchuk/dlevchuk"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/dlevchuk/dlevchuk/stargazers"><img src="https://img.shields.io/github/stars/dlevchuk/dlevchuk.svg?logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=dlevchuk.dlevchuk" alt="visitors"/>   
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+<summary>Trophy: Github Profile Trophy</summary>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dlevchuk" alt="dlevchuk" /></a>
+</p>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+### Profile Views
+counting of visitors to this page in this section started from June 12, 2022
+
+![](https://count.getloli.com/get/@dlevchuk.github.readme)
+</br>
+
+![](assets/Bottom_down.svg)
