@@ -6,8 +6,10 @@
     <a href="https://github.com/dlevchuk/dlevchuk/stargazers"><img src="https://img.shields.io/github/stars/dlevchuk/dlevchuk.svg?logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=dlevchuk.dlevchuk" alt="visitors"/>   
 </p>
+
 <!--   grid-snake -->
 ![](https://github.com/dlevchuk/dlevchuk/blob/output/github-contribution-grid-snake-dark.svg)
+
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
