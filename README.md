@@ -1,21 +1,38 @@
-### Hi there 👋
+<div align="center">
 
-<!--   my-icons -->
-<p align="center">
-    <a href="https://github.com/dlevchuk/dlevchuk"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/dlevchuk/dlevchuk/stargazers"><img src="https://img.shields.io/github/stars/dlevchuk/dlevchuk.svg?logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=dlevchuk.dlevchuk" alt="visitors"/>   
-</p>
+# Hi there 👋
 
-<!--   grid-snake -->
-![](https://github.com/dlevchuk/dlevchuk/blob/output/github-contribution-grid-snake-dark.svg)
+### Welcome to my GitHub profile
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dlevchuk&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub](https://img.shields.io/badge/GitHub-dlevchuk-181717?style=for-the-badge&logo=github)](https://github.com/dlevchuk)
+[![Repositories](https://img.shields.io/badge/Explore-my%20repositories-2f80ed?style=for-the-badge&logo=github)](https://github.com/dlevchuk?tab=repositories)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
-### Profile Views
-![](https://count.getloli.com/get/@dlevchuk.github.readme)
-</br>
+<br>
 
-![](assets/Bottom_down.svg)
+## Contribution activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dlevchuk/dlevchuk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dlevchuk/dlevchuk/output/github-contribution-grid-snake.svg">
+  <img alt="Animated view of GitHub contributions" src="https://raw.githubusercontent.com/dlevchuk/dlevchuk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+## Profile metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub profile metrics" width="100%">
+</div>
+
+<div align="center">
+
+[![GitHub profile trophies](https://github-profile-trophy.vercel.app/?username=dlevchuk&theme=onedark&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+
+<sub>Thanks for stopping by · <a href="https://github.com/dlevchuk?tab=repositories">Browse my repositories</a></sub>
+
+</div>
