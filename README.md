@@ -9,19 +9,12 @@
 
 <br>
 
-## ✨ GitHub snapshot
+## 📊 GitHub snapshot
 
-Pinned repositories · GitHub achievements · languages · contribution patterns
-
-<!-- Generated weekly by .github/workflows/Metrics.yaml -->
-<img src="./github-metrics.svg" alt="GitHub activity, achievements, pinned repositories, and language metrics" width="100%">
-
-## 🧭 Coding rhythm
-
-Recent activity by day and hour, with a few lightweight coding-pattern insights.
+Languages · activity · repository and community stats
 
 <!-- Generated weekly by .github/workflows/Metrics.yaml -->
-<img src="./github-habits.svg" alt="Coding activity by day and hour, plus recent activity insights" width="100%">
+<img src="./github-metrics.svg" alt="GitHub activity, repository, community, and language metrics" width="100%">
 
 ## 🐍 Contribution trail
 
