@@ -1,11 +1,8 @@
 # dlevchuk
-
-[Repositories](https://github.com/dlevchuk?tab=repositories) · [Stars](https://github.com/dlevchuk?tab=stars) · [Followers](https://github.com/dlevchuk?tab=followers)
-
 ## GitHub at a glance
 
 <!-- Generated weekly by .github/workflows/Metrics.yaml -->
-<img src="./github-metrics.svg" alt="GitHub activity, repository, community, and language metrics" width="100%">
+<img src="./github-metrics.svg" alt="GitHub activity, repository, community, and language metrics" width="50%">
 
 ## Contribution trail
 
